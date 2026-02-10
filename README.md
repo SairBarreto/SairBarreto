@@ -17,8 +17,8 @@
 </p>
 
 <h2 style="display: inline-block">Proyectos</h2>
-<p>Proyecto en Java siguiendo patrones como MVC, Observer, State, DoubleDispatch: <a href="https://github.com/fnpratto/AlgoRoma-Java-TpFinal-Algoritmos3-">Link al repositorio</a></p>
-<P>Proyecto Front-End -Carrito de Compras- <a href="https://github.com/SairBarreto/Proyecto_Final_Curso_Front-End_Talento-Tech">Link al repositorio</a><P>
+<p>Proyecto en <b>Java<b> siguiendo patrones como MVC, Observer, State, DoubleDispatch: <a href="https://github.com/fnpratto/AlgoRoma-Java-TpFinal-Algoritmos3-">Link al repositorio</a></p>
+<P>Proyecto <b>Front-End<b> -Carrito de Compras- <a href="https://github.com/SairBarreto/Proyecto_Final_Curso_Front-End_Talento-Tech">Link al repositorio</a><P>
 <!--<h2>Proyectos en el que eh trabajado son</h2>
 <!--
 **SairBarreto/SairBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
